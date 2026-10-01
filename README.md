@@ -6,6 +6,10 @@ A repository tracking my progression through Python fundamentals, core data stru
 ## Overview
 This repository contains exercises, practice problems, and mini-projects focused on mastering core programming concepts in Python. It serves as both a learning log and a foundation for building scalable backend applications and game logic.
 
+## Curriculum & Books Included
+* **`automate-the-boring-stuff/`** – Exercises, projects, and practice scripts from *Automate the Boring Stuff with Python* by Al Sweigart. Covers flow control, functions, lists, dictionaries, string manipulation, and system automation.
+* **`beyond-the-basic-stuff-with-python/`**  - Exercises, projects, practice
+
 ## Focus Areas
 * **Control Flow & Logic:** Conditionals, loops, and state tracking.
 * **Data Structures:** Lists, dictionaries, tuples, and sets.
